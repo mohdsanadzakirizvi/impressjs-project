@@ -8,3 +8,9 @@
 	background-color: #ffffff;
 	border-radius: 4px;
 }
+p:hover{
+	transform: rotate(-10deg);
+	transition: .5s;
+	transition-delay: .25s;
+	display: inline-block;
+}
